@@ -8,3 +8,9 @@
 .gap{
 	padding: 5px;
 }
+
+.body{
+	background-color: rgb(175, 179, 178);
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
